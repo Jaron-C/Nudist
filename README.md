@@ -7,8 +7,7 @@ To get started, check out [http://jackalope.io/nudist/](http://jackalope.io/nudi
 If you're a visual learner, we've created [Video Tutorials](http://jackalope.io/) to walk you through step-by-step.
 
 ## Table of Contents
-1. Quick Start
-2. Tools Needed
+1. Tools Needed
 2. Before You Install
 3. Theme Installation
 4. Theme Customization
