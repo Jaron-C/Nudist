@@ -3,8 +3,8 @@
 
 Nudist is a bare-naked Wordpress Theme for beginners, based on [Bootstrap](http://getbootstrap.com/). All credit due to [Roots](http://roots.io/).
 
-* Source: [https://github.com/masoninthesis/nudist](https://github.com/masoninthesis/nudist)
-* Homepage: [http://jackalope.io/nudist](http://jackalope.io/nudist)
+* Source: [https://github.com/masoninthesis/nudist/](https://github.com/masoninthesis/nudist)
+* Homepage: [http://jackalope.io/nudist/](http://jackalope.io/nudist)
 * Documentation: [http://roots.io/docs/](http://jackalope.io/nudist/docs/)
 * Twitter: [@jackalopemedia](https://twitter.com/jackalopemedia), [@masoninthesis](https://twitter.com/masoninthesis), [@retlehs](https://twitter.com/retlehs), [@swalkinshaw](https://twitter.com/swalkinshaw), [@Foxaii](https://twitter.com/Foxaii), [@c2foryou](https://twitter.com/c2foryou)
 * Newsletter: [Subscribe](http://jackalope.io/subscribe/)
