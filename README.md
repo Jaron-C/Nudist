@@ -12,18 +12,18 @@ Nudist is a bare-naked Wordpress Theme for beginners, based on [Bootstrap](http:
 
 
 ### Tools Needed: [Video Tutorial](https://jackalope.io) 
-• Terminal
-• Github.com Account
-• Github Desktop App
-• Text Editor (Atom/Sublime Text/Coda)
-• Terminal/Command Prompt
-• MAMP/WAMP
-• Grunt
+* Terminal
+* Github.com Account
+* Github Desktop App
+* Text Editor (Atom/Sublime Text/Coda)
+* Terminal/Command Prompt
+* MAMP/WAMP
+* Grunt
 
 ### Before Install: [Video Tutorial](https://jackalope.io) 
-#### • Install Wordpress Locally
-#### • Install Grunt
-#### • Setup Github
+* Install Wordpress Locally
+* Install Grunt
+* Setup Github
 
 ## Theme Installation: [Video Tutorial](https://jackalope.io) 
 
