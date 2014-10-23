@@ -12,6 +12,7 @@ To stay organized, feel free to [follow along on this Trello board](https://trel
 3. Theme Installation
 4. Theme Customization
 5. Documentation
+6. Support
 6. Creators
 
 ## Quick Start
