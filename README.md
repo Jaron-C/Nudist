@@ -38,9 +38,9 @@
 
 ## Theme Customization: [Video Tutorial](https://jackalope.io) 
 
-1. Open style.css in text editor, replace text. 
-2. Update README.md if you've altered installation process.
-3. Replace screenshot.png with custom branding
+1. Open style.css in text editor, update text. 
+2. If needed, update the installation process in README.md.
+3. If needed, replace screenshot.png with custom branding.
 4. To cusomize LESS: Write 'grunt watch' in Terminal and hit enter (must be in theme root folder).
 
 ## Documentation
