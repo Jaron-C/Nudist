@@ -4,7 +4,7 @@ Nudist is a bare-naked Wordpress Theme for beginners, based on [Bootstrap](http:
 
 To get started, check out [http://jackalope.io/nudist/](http://jackalope.io/nudist/)!
 
-If you're a visual learner, we've created [Video Tutorials](http://jackalope.io/) to walk you through step-by-step.
+To stay organized, feel free to [follow along on this Trello board](https://trello.com/b/PhHVRdL0/installing-roots). If you're a visual learner, we've created [Video Tutorials](http://jackalope.io/) to walk you through step-by-step.
 
 ## Table of Contents
 1. Tools Needed
