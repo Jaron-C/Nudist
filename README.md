@@ -20,7 +20,6 @@ Jackalope started using Roots when we wanted a Wordpress theme that was damn fas
 
 
 ### Tools Needed: [Video Tutorial](https://jackalope.io) 
-* Terminal
 * Github.com Account
 * Github Desktop App
 * Text Editor (Atom/Sublime Text/Coda)
