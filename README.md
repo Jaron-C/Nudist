@@ -16,7 +16,7 @@ To get started, check out [http://jackalope.io/nudist/](http://jackalope.io/nudi
 ## Quick Start
 Nudist was built for designers and beginning coders who want the power of Bootstrap built into Wordpress but aren't experienced enough to use the [Roots](http://roots.io/) theme. 
 
-Jackalope started using Roots when we wanted a Wordpress theme that was damn fast and easy to customize.  We realized that a lot of designers don't use Roots because it's too technical. Nudist is just as powerful, just a little simpler to install. Just in case, we've created [Video Tutorials](http://jackalope.io/) for you if you learn better by watching.
+Jackalope started using Roots when we wanted a Wordpress theme that was damn fast and easy to customize.  We realized that a lot of designers don't use Roots because it's too technical. Nudist is just as powerful, just a little simpler to install. If you're a visual learner, we've created [Video Tutorials](http://jackalope.io/) to walk you through step-by-step.
 
 
 ### Tools Needed: [Video Tutorial](https://jackalope.io) 
