@@ -1,7 +1,7 @@
 # [Nudist Theme](http://Jackalope.io/)
 [![devDependency Status](https://david-dm.org/roots/roots/dev-status.svg)](https://david-dm.org/roots/roots#info=devDependencies)
 
-Nudist is a bare-naked Wordpress Theme based on Roots. Roots is a WordPress starter theme based on [HTML5 Boilerplate](http://html5boilerplate.com/) & [Bootstrap](http://getbootstrap.com/) that will help you make better themes.
+Nudist is a bare-naked Wordpress Theme for beginners, based on [Bootstrap](http://getbootstrap.com/). All credit due to [Roots](http://roots.io/).
 
 * Source: [https://github.com/masoninthesis/nudist](https://github.com/masoninthesis/nudist)
 * Homepage: [http://jackalope.io/nudist](http://jackalope.io/nudist)
@@ -13,8 +13,7 @@ Nudist is a bare-naked Wordpress Theme based on Roots. Roots is a WordPress star
 
 ## Installation
 
-Clone the git repo - `git clone git://github.com/roots/roots.git` - or [download it](https://github.com/masoninthesis/nudist) and then rename the directory to the name of your theme or website.
-```
+Clone the git repo - `git clone git://github.com/masoninthesis/jackalope.git` - or [download it](https://github.com/masoninthesis/nudist) and then rename the directory to the name of your theme or website.
 
 ## Theme activation
 
