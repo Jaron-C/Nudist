@@ -1,14 +1,22 @@
 # [Nudist Theme](http://Jackalope.io/)
-[![devDependency Status](https://david-dm.org/roots/roots/dev-status.svg)](https://david-dm.org/roots/roots#info=devDependencies)
 
-## Nudist is a bare-naked Wordpress Theme for beginners, based on [Bootstrap](http://getbootstrap.com/). All credit due to [Roots](http://roots.io/).
+Nudist is a bare-naked Wordpress Theme for beginners, based on [Bootstrap](http://getbootstrap.com/). All credit due to [Roots](http://roots.io/).
 
-* Source: [https://github.com/masoninthesis/nudist/](https://github.com/masoninthesis/nudist)
-* Homepage: [http://jackalope.io/nudist/](http://jackalope.io/nudist)
-* Documentation: [http://roots.io/docs/](http://jackalope.io/nudist/docs/)
-* Twitter: [@jackalopemedia](https://twitter.com/jackalopemedia), [@masoninthesis](https://twitter.com/masoninthesis), [@retlehs](https://twitter.com/retlehs), [@swalkinshaw](https://twitter.com/swalkinshaw), [@Foxaii](https://twitter.com/Foxaii), [@c2foryou](https://twitter.com/c2foryou)
-* Newsletter: [Subscribe](http://jackalope.io/subscribe/)
-* Forum: [http://discourse.roots.io/](http://discourse.roots.io/)
+To get started, check out [http://jackalope.io/nudist/](http://jackalope.io/nudist/)!
+
+## Table of Contents
+1. Quick Start
+2. Tools Needed
+2. Before You Install
+3. Theme Installation
+4. Theme Customization
+5. Documentation
+6. Creators
+
+## Quick Start
+Nudist was built for designers and beginning coders who want the power of Bootstrap built into Wordpress but aren't experienced enough to use the [Roots](http://roots.io/) theme. 
+
+Jackalope started using Roots when we wanted a Wordpress theme that was damn fast and easy to customize.  We realized that a lot of designers don't use Roots because it's too technical. Nudist is just as powerful, just a little simpler to install. Just in case, we've created [Video Tutorials](http://jackalope.io/) for you if you learn better by watching.
 
 
 ### Tools Needed: [Video Tutorial](https://jackalope.io) 
@@ -20,7 +28,7 @@
 * MAMP/WAMP
 * Grunt
 
-### Before Install: [Video Tutorial](https://jackalope.io) 
+### Before You Install: [Video Tutorial](https://jackalope.io) 
 * Install Wordpress Locally
 * Install Grunt
 * Setup Github
@@ -42,6 +50,13 @@
 2. If needed, update the installation process in README.md.
 3. If needed, replace screenshot.png with custom branding.
 4. To cusomize LESS: Write 'grunt watch' in Terminal and hit enter (must be in theme root folder).
+
+* Source: [https://github.com/masoninthesis/nudist/](https://github.com/masoninthesis/nudist)
+* Homepage: [http://jackalope.io/nudist/](http://jackalope.io/nudist)
+* Documentation: [http://roots.io/docs/](http://jackalope.io/nudist/docs/)
+* Twitter: [@jackalopemedia](https://twitter.com/jackalopemedia), [@masoninthesis](https://twitter.com/masoninthesis), [@retlehs](https://twitter.com/retlehs), [@swalkinshaw](https://twitter.com/swalkinshaw), [@Foxaii](https://twitter.com/Foxaii), [@c2foryou](https://twitter.com/c2foryou)
+* Newsletter: [Subscribe](http://jackalope.io/subscribe/)
+* Forum: [http://discourse.roots.io/](http://discourse.roots.io/)
 
 ## Documentation
 
