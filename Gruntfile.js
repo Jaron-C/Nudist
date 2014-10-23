@@ -129,24 +129,24 @@ module.exports = function(grunt) {
           'assets/less/*.less',
           'assets/less/**/*.less'
         ],
-        tasks: ['less:build', 'autoprefixer:build']
+        tasks: ['less:dev', 'autoprefixer:dev']
       },
       js: {
         files: [
           jsFileList,
           '<%= jshint.all %>'
         ],
-        tasks: ['jshint', 'concat', 'uglify']
+        tasks: ['jshint', 'concat']
       },
       livereload: {
         // Browser live reloading
         // https://github.com/gruntjs/grunt-contrib-watch#live-reloading
         options: {
-          livereload: true
+          livereload: false
         },
         files: [
-          'assets/css/main.min.css',
-          'assets/js/scripts.min.js',
+          'assets/css/main.css',
+          'assets/js/scripts.js',
           'templates/*.php',
           '*.php'
         ]
