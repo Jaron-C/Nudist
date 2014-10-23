@@ -3,51 +3,22 @@
 
 Nudist is a bare-naked Wordpress Theme based on Roots. Roots is a WordPress starter theme based on [HTML5 Boilerplate](http://html5boilerplate.com/) & [Bootstrap](http://getbootstrap.com/) that will help you make better themes.
 
-* Source: [https://github.com/roots/roots](https://github.com/masoninthesis/nudisttheme)
-* Homepage: [http://roots.io/](http://roots.io/)
-* Documentation: [http://roots.io/docs/](http://roots.io/docs/)
-* Twitter: [@rootswp](https://twitter.com/rootswp), [@retlehs](https://twitter.com/retlehs), [@swalkinshaw](https://twitter.com/swalkinshaw), [@Foxaii](https://twitter.com/Foxaii), [@c2foryou](https://twitter.com/c2foryou)
-* Newsletter: [Subscribe](http://roots.io/subscribe/)
+* Source: [https://github.com/masoninthesis/nudist](https://github.com/masoninthesis/nudist)
+* Homepage: [http://jackalope.io/nudist](http://jackalope.io/nudist)
+* Documentation: [http://roots.io/docs/](http://jackalope.io/nudist/docs/)
+* Twitter: [@jackalopemedia](https://twitter.com/jackalopemedia), [@masoninthesis](https://twitter.com/masoninthesis), [@retlehs](https://twitter.com/retlehs), [@swalkinshaw](https://twitter.com/swalkinshaw), [@Foxaii](https://twitter.com/Foxaii), [@c2foryou](https://twitter.com/c2foryou)
+* Newsletter: [Subscribe](http://jackalope.io/subscribe/)
 * Forum: [http://discourse.roots.io/](http://discourse.roots.io/)
 
-## Features
-
-* [Grunt](http://roots.io/using-grunt-for-wordpress-theme-development/) for compiling LESS to CSS, checking for JS errors, live reloading, concatenating and minifying files, versioning assets, and generating lean Modernizr builds
-* [Bower](http://bower.io/) for front-end package management
-* [HTML5 Boilerplate](http://html5boilerplate.com/)
-  * The latest [jQuery](http://jquery.com/) via Google CDN, with a local fallback
-  * The latest [Modernizr](http://modernizr.com/) build for feature detection, with lean builds with Grunt
-  * An optimized Google Analytics snippet
-* [Bootstrap](http://getbootstrap.com/)
-* Organized file and template structure
-* ARIA roles and microformats
-* [Theme activation](http://roots.io/roots-101/#theme-activation)
-* [Theme wrapper](http://roots.io/an-introduction-to-the-roots-theme-wrapper/)
-* Cleaner HTML output of navigation menus
-* Posts use the [hNews](http://microformats.org/wiki/hnews) microformat
-* [Multilingual ready](http://roots.io/wpml/) and over 30 available [community translations](https://github.com/roots/roots-translations)
-
-### Additional features
-
-Install the [Soil](https://github.com/roots/soil) plugin to enable additional features:
-
-* Root relative URLs
-* Nice search (`/search/query/`)
-* Cleaner output of `wp_head` and enqueued assets markup
 
 ## Installation
 
-Clone the git repo - `git clone git://github.com/roots/roots.git` - or [download it](https://github.com/roots/roots/zipball/master) and then rename the directory to the name of your theme or website.
-
-If you don't use [Bedrock](https://github.com/roots/bedrock), you'll need to add the following to your `wp-config.php` on your development installation:
-
-```php
-define('WP_ENV', 'development');
+Clone the git repo - `git clone git://github.com/roots/roots.git` - or [download it](https://github.com/masoninthesis/nudist) and then rename the directory to the name of your theme or website.
 ```
 
 ## Theme activation
 
-Reference the [theme activation](http://roots.io/roots-101/#theme-activation) documentation to understand everything that happens once you activate Roots.
+Reference the [theme activation](http://jackalope.io/nudist-101/#theme-activation) documentation to understand everything that happens once you activate Roots.
 
 ## Configuration
 
