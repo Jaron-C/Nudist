@@ -1,7 +1,7 @@
 # [Nudist Theme](http://Jackalope.io/)
 [![devDependency Status](https://david-dm.org/roots/roots/dev-status.svg)](https://david-dm.org/roots/roots#info=devDependencies)
 
-Nudist is a bare-naked Wordpress Theme for beginners, based on [Bootstrap](http://getbootstrap.com/). All credit due to [Roots](http://roots.io/).
+### Nudist is a bare-naked Wordpress Theme for beginners, based on [Bootstrap](http://getbootstrap.com/). All credit due to [Roots](http://roots.io/).
 
 * Source: [https://github.com/masoninthesis/nudist/](https://github.com/masoninthesis/nudist)
 * Homepage: [http://jackalope.io/nudist/](http://jackalope.io/nudist)
