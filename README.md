@@ -1,6 +1,6 @@
 # [Nudist Theme](http://Jackalope.io/)
 
-Nudist is a bare-naked Wordpress Theme for beginners, based on [Bootstrap](http://getbootstrap.com/). Nudist was created so that designers or people who have never coded before can have the power of [Roots](http://roots.io/).
+Nudist is a bare-naked Wordpress Theme for beginners, based on [Bootstrap](http://getbootstrap.com/). Nudist was created so that designers and people who have never coded before can harness the power of [Roots](http://roots.io/).
 
 To get started, check out [http://jackalope.io/nudist/](http://jackalope.io/nudist/)!
 
