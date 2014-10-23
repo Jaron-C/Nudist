@@ -62,7 +62,11 @@ To stay organized, feel free to [follow along on this Trello board](https://trel
 * [Build Script](http://roots.io/using-grunt-for-wordpress-theme-development/) — A look into how Roots uses Grunt
 * [Roots Sidebar](http://roots.io/the-roots-sidebar/) — Understand how to display or hide the sidebar in Roots
 
-## Contributing
+## Support
+
+Use the [Roots Discourse](http://discourse.roots.io/) to ask questions and get support.
+
+## Creators
 
 Everyone is welcome to help [contribute](CONTRIBUTING.md) and improve this project. There are several ways you can contribute:
 
@@ -71,7 +75,3 @@ Everyone is welcome to help [contribute](CONTRIBUTING.md) and improve this proje
 * Writing or refactoring code
 * Fixing [issues](https://github.com/roots/roots/issues)
 * Replying to questions on the [forum](http://discourse.roots.io/)
-
-## Support
-
-Use the [Roots Discourse](http://discourse.roots.io/) to ask questions and get support.
