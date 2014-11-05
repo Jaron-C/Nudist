@@ -4,7 +4,7 @@ apm install atom-terminal
 #Installs Term2 package
 apm install term2
 
-#Installs the ___ package
+#Installs the Autocomplete Plus package
 apm install autocomplete-plus
 
 #Installs the Linter package
